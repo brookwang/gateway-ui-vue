@@ -5,7 +5,7 @@
         <div class="main-container">
             <navbar></navbar>
             <app-main></app-main>
-            <div class="app-footer">Copyright © 2018-current <strong><a href="https://github.com/bosscheng" target="_blank">bosscheng</a></strong> All Rights Reserved.   </div>
+            <div class="app-footer">Copyright © 2018-current <strong><a href="https://github.com/brookwang" target="_blank">brookwang</a></strong> All Rights Reserved.   </div>
         </div>
     </div>
 </template>

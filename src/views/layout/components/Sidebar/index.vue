@@ -1,7 +1,7 @@
 <template>
     <el-scrollbar wrapClass="scrollbar-wrapper">
         <div class="logo-con">
-            <div class="api-big" v-show="!isCollapse">FaGongZi</div>
+            <div class="api-big" v-show="!isCollapse">HotTech</div>
             <div class="api-small" v-show="isCollapse">FGZ</div>
         </div>
         <el-menu
